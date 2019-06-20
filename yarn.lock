@@ -2197,6 +2197,9 @@ expo-media-library@~5.0.1:
   resolved "https://registry.yarnpkg.com/expo-media-library/-/expo-media-library-5.0.1.tgz#f7f3b7fa0808eac224cd966583253380f0af2d1d"
   integrity sha512-b5DHS+Ga8dyhw1+xQDB7Dafiea1jd91iOXbaE8LWg+awUDXTh6Ss14KMh8WI2mE3DVbBkcuLPTQ9NXlM2Oz67Q==
 
+"expo-ota@file:../expo/packages/expo-ota":
+  version "1.0.0"
+
 expo-payments-stripe@~5.0.1:
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/expo-payments-stripe/-/expo-payments-stripe-5.0.1.tgz#da096cf81fc03dbfd540ce6814cc67222d7447ff"
@@ -2360,10 +2363,9 @@ expo@^33.0.0:
     unimodules-sensors-interface "~2.0.1"
     uuid-js "^0.7.5"
 
-expokit@33.0.3:
+expokit@~/SoftwareMansion/repositories/expo/expokit-npm-package/expokit-33.0.3.tgz:
   version "33.0.3"
-  resolved "https://registry.yarnpkg.com/expokit/-/expokit-33.0.3.tgz#15b2615d6d995b416a31ff4e3ea1580ee2e0dc7e"
-  integrity sha512-/fm2YpiMmr+flh+ClHzK09owDPdsIJ+YREPubxbHxt+5wL2paaQvgcIazcl6jDMCI0+K3FBNJVrNxbJy526ZXg==
+  resolved "~/SoftwareMansion/repositories/expo/expokit-npm-package/expokit-33.0.3.tgz#15b2615d6d995b416a31ff4e3ea1580ee2e0dc7e"
   dependencies:
     jsc-android "^241213.2.0"
 
@@ -5469,6 +5471,9 @@ unimodules-task-manager-interface@~2.0.0:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/unimodules-task-manager-interface/-/unimodules-task-manager-interface-2.0.1.tgz#77ee744741f3fffe49f0da33aa04a444f66c9ebd"
   integrity sha512-dXC9ta54lw23JxOX64OAT7wz6S0IExZZ7tf8iPjnNQPQLSqnuVuC7JRo7ZGV1HYFsR1aIwbrFxS7uiBE5SKCUg==
+
+"unimodules-updates-interface@file:../expo/packages/unimodules-updates-interface":
+  version "1.0.0"
 
 union-value@^1.0.0:
   version "1.0.0"

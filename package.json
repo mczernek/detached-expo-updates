@@ -9,12 +9,14 @@
   },
   "dependencies": {
     "expo": "^33.0.0",
-    "expokit": "33.0.3",
+    "expo-ota": "/Users/mczernek/SoftwareMansion/repositories/expo/packages/expo-ota",
+    "expokit": "~/SoftwareMansion/repositories/expo/expokit-npm-package/expokit-33.0.3.tgz",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
     "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
     "react-native-unimodules": "^0.4.0",
-    "react-native-web": "^0.11.4"
+    "react-native-web": "^0.11.4",
+    "unimodules-updates-interface": "/Users/mczernek/SoftwareMansion/repositories/expo/packages/unimodules-updates-interface"
   },
   "devDependencies": {
     "@types/react": "^16.8.19",
