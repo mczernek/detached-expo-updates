@@ -2197,7 +2197,7 @@ expo-media-library@~5.0.1:
   resolved "https://registry.yarnpkg.com/expo-media-library/-/expo-media-library-5.0.1.tgz#f7f3b7fa0808eac224cd966583253380f0af2d1d"
   integrity sha512-b5DHS+Ga8dyhw1+xQDB7Dafiea1jd91iOXbaE8LWg+awUDXTh6Ss14KMh8WI2mE3DVbBkcuLPTQ9NXlM2Oz67Q==
 
-"expo-ota@file:../expo/packages/expo-ota":
+"expo-ota@file:../../../../../Users/mczernek/SoftwareMansion/repositories/expo/packages/expo-ota":
   version "1.0.0"
 
 expo-payments-stripe@~5.0.1:
@@ -5377,9 +5377,9 @@ typescript@^3.4.5:
   integrity sha512-7KxJovlYhTX5RaRbUdkAXN1KUZ8PwWlTzQdHV6xNqvuFOs7+WBo10TQUqT19Q/Jz2hk5v9TQDIhyLhhJY4p5AA==
 
 ua-parser-js@^0.7.18, ua-parser-js@^0.7.19:
-  version "0.7.20"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.20.tgz#7527178b82f6a62a0f243d1f94fd30e3e3c21098"
-  integrity sha512-8OaIKfzL5cpx8eCMAhhvTlft8GYF8b2eQr6JkCyVdrgjcytyOmPCXrqXFcUnhonRpLlh5yxEZVohm6mzaowUOw==
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
+  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 uglify-es@^3.1.9:
   version "3.3.9"
@@ -5472,7 +5472,7 @@ unimodules-task-manager-interface@~2.0.0:
   resolved "https://registry.yarnpkg.com/unimodules-task-manager-interface/-/unimodules-task-manager-interface-2.0.1.tgz#77ee744741f3fffe49f0da33aa04a444f66c9ebd"
   integrity sha512-dXC9ta54lw23JxOX64OAT7wz6S0IExZZ7tf8iPjnNQPQLSqnuVuC7JRo7ZGV1HYFsR1aIwbrFxS7uiBE5SKCUg==
 
-"unimodules-updates-interface@file:../expo/packages/unimodules-updates-interface":
+"unimodules-updates-interface@file:../../../../../Users/mczernek/SoftwareMansion/repositories/expo/packages/unimodules-updates-interface":
   version "1.0.0"
 
 union-value@^1.0.0:
